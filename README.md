@@ -5,7 +5,7 @@ variational quantum circuit, optimised with a hand-implemented parameter-shift r
 Built with [PennyLane](https://pennylane.ai/).
 
 ---
-> **Note:** figures may not render correctly on GitHub — they are visible in the notebook directly.
+> ⚠️ **Note:** figures may not render correctly on GitHub — they are visible in the notebook directly. ⚠️
 
 ## What this does
 
