@@ -48,9 +48,9 @@ The model was trained using Gradient Descent with a tolerance ($\epsilon$) of $1
 At the optimal parameter, the circuit produces $|00\rangle$ and $|11\rangle$ with equal probability ($\approx 0.5$ each), confirming successful Bell state preparation.
 
 | Observable | Initial ($p = 3.0$) | Optimised |
-|---|---|---|
-| $P(|00\rangle)$ | ~0.99 | ~0.50 |
-| $P(|11\rangle)$ | ~0.01 | ~0.50 |
+| :--- | :--- | :--- |
+| $P(\|00\rangle)$ | ~0.99 | ~0.50 |
+| $P(\|11\rangle)$ | ~0.01 | ~0.50 |
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/AnasOukhouya/bell-state-vqc@main/figures/state-probabilities.png" width="60%" alt="State probabilities" title="State probabilities">
