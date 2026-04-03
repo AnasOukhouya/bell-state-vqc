@@ -1,5 +1,5 @@
 # Bell State Preparation via Variational Quantum Circuit
-
+> **Note:** figures may not render correctly on GitHub — they are visible in the notebook directly.
 Preparing the Bell state |Φ+⟩ = (|00⟩ + |11⟩)/√2 using a single-parameter
 variational quantum circuit, optimised with a hand-implemented parameter-shift rule.
 
@@ -45,8 +45,6 @@ probability (~0.5 each), confirming successful Bell state preparation.
  
 ![State probabilities](figures/state_probabilities.png)
 ![Parameter evolution](figures/parameter_evolution.png)
-
-![this is a test]([figures/parameter_evolution.png](https://postquantum.com/wp-content/uploads/2016/09/Qubit-Bloch-Sphere.jpg))
 
 ---
 
