@@ -32,8 +32,8 @@ RY(p) ──●──
    I ───⊕──
 ```
 
-<div align="center">
-  <img src="figures/circuit-diagram.png" width="50%" alt="Circuit diagram" title="Circuit diagram">
+<div>
+  <img src="figures/circuit-diagram.png" width="60%" alt="Circuit diagram" title="Circuit diagram">
 </div>
  
 ---
@@ -48,12 +48,12 @@ probability (~0.5 each), confirming successful Bell state preparation.
 | P(\|00⟩) | ~0.98 | ~0.50 |
 | P(\|11⟩) | ~0.01 | ~0.50 |
 
-<div align="center">
-  <img src="figures/state-probabilities.png" width="50%" alt="State probabilities" title="State probabilities">
+<div>
+  <img src="figures/state-probabilities.png" width="60%" alt="State probabilities" title="State probabilities">
 </div>
 
-<div align="center">
-  <img src="figures/parameter-evolution.png" width="50%" alt="Parameter evolution" title="Parameter evolution">
+<div>
+  <img src="figures/parameter-evolution.png" width="60%" alt="Parameter evolution" title="Parameter evolution">
 </div>
 
 ---
