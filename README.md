@@ -57,7 +57,7 @@ probability (~0.5 each), confirming successful Bell state preparation.
 bell-state-vqc/
 ├── bell_state_vqc.ipynb   # main notebook
 ├── figures/               # plots saved by the notebook
-│   ├── circuit_diagram.png
+│   ├── circuit.png
 │   ├── state_probabilities.png
 │   └── parameter_evolution.png
 ├── requirements.txt
@@ -87,5 +87,4 @@ seaborn
 ## Notes
 
 Code written independently as part of self-directed study into variational
-quantum algorithms. README and inline comments were refined with AI assistance
-for clarity.
+quantum algorithms. Documentation refined iteratively.
