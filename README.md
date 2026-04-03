@@ -37,14 +37,20 @@ RY(p) ──●──
 ---
  
 ## Results
- 
-At the optimal parameter, the circuit produces |00⟩ and |11⟩ with equal
-probability (~0.5 each), confirming successful Bell state preparation.
- 
-| Observable | Initial (p = 3.0) | Optimised |
+
+### Optimization Performance
+The model was trained using Gradient Descent with a tolerance ($\epsilon$) of $10^{-4}$.
+
+* **Convergence:** The algorithm reached the stopping criterion at **iteration 1410**.
+* **Final Parameter ($p$):** $\approx 1.5956$ (converging toward the theoretical value of $\pi/2 \approx 1.5708$).
+* **Final Error:** $0.0001$.
+
+At the optimal parameter, the circuit produces $|00\rangle$ and $|11\rangle$ with equal probability ($\approx 0.5$ each), confirming successful Bell state preparation.
+
+| Observable | Initial ($p = 3.0$) | Optimised |
 |---|---|---|
-| P(\|00⟩) | ~0.99 | ~0.50 |
-| P(\|11⟩) | ~0.01 | ~0.50 |
+| $P(|00\rangle)$ | ~0.99 | ~0.50 |
+| $P(|11\rangle)$ | ~0.01 | ~0.50 |
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/AnasOukhouya/bell-state-vqc@main/figures/state-probabilities.png" width="60%" alt="State probabilities" title="State probabilities">
