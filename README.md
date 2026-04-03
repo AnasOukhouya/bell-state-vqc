@@ -53,7 +53,7 @@ At the optimal parameter, the circuit produces $|00\rangle$ and $|11\rangle$ wit
 | $P(\|11\rangle)$ | ~0.01 | ~0.50 |
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/AnasOukhouya/bell-state-vqc@main/figures/state-probabilities.png" width="60%" alt="State probabilities" title="State probabilities">
+  <img src="https://cdn.jsdelivr.net/gh/AnasOukhouya/bell-state-vqc@main/figures/states-probabilities.png" width="60%" alt="State probabilities" title="State probabilities">
 </div>
 <br>
 <div>
