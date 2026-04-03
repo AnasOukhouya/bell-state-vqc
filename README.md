@@ -46,6 +46,8 @@ probability (~0.5 each), confirming successful Bell state preparation.
 ![State probabilities](figures/state_probabilities.png)
 ![Parameter evolution](figures/parameter_evolution.png)
 
+![this is a test]([figures/parameter_evolution.png](https://postquantum.com/wp-content/uploads/2016/09/Qubit-Bloch-Sphere.jpg))
+
 ---
 
 ## Project structure
