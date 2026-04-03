@@ -47,9 +47,14 @@ probability (~0.5 each), confirming successful Bell state preparation.
 |---|---|---|
 | P(\|00⟩) | ~0.98 | ~0.50 |
 | P(\|11⟩) | ~0.01 | ~0.50 |
- 
-![State probabilities](figures/state-probabilities.png)
-![Parameter evolution](figures/parameter-evolution.png)
+
+<div align="center">
+  <img src="figures/state-probabilities.png" width="50%" alt="State probabilities" title="State probabilities">
+</div>
+
+<div align="center">
+  <img src="figures/parameter-evolution.png" width="50%" alt="Parameter evolution" title="Parameter evolution">
+</div>
 
 ---
 
