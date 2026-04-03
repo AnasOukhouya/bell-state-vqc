@@ -29,7 +29,7 @@ RY(p) ──●──
    I ───⊕──
 ```
 
-![Circuit diagram](figures/circuit.png)
+![Circuit diagram](https://github.com/AnasOukhouya/bell-state-vqc/blob/444da6b021ebf90762612532a4fbb07fe2b19c1f/figures/circuit.png)
 
 ---
 
@@ -43,8 +43,8 @@ probability (~0.5 each), confirming successful Bell state preparation.
 | P(\|00⟩) | ~0.98 | ~0.50 |
 | P(\|11⟩) | ~0.01 | ~0.50 |
 
-![State probabilities](figures/state_probabilities.png)
-![Parameter evolution](figures/parameter_evolution.png)
+![State probabilities]([figures/state_probabilities.png](https://github.com/AnasOukhouya/bell-state-vqc/blob/444da6b021ebf90762612532a4fbb07fe2b19c1f/figures/state_probabilities.png))
+![Parameter evolution]([figures/parameter_evolution.png](https://github.com/AnasOukhouya/bell-state-vqc/blob/444da6b021ebf90762612532a4fbb07fe2b19c1f/figures/parameter_evolution.png))
 
 ---
 
