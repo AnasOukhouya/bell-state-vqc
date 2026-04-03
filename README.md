@@ -49,11 +49,11 @@ probability (~0.5 each), confirming successful Bell state preparation.
 | P(\|11⟩) | ~0.01 | ~0.50 |
 
 <div>
-  <img src="figures/state-probabilities.png" width="60%" alt="State probabilities" title="State probabilities">
+  <img src="https://cdn.jsdelivr.net/gh/AnasOukhouya/bell-state-vqc@main/figures/state-probabilities.png" width="60%" alt="State probabilities" title="State probabilities">
 </div>
 <br>
 <div>
-  <img src="figures/parameter-evolution.png" width="60%" alt="Parameter evolution" title="Parameter evolution">
+  <img src="https://cdn.jsdelivr.net/gh/AnasOukhouya/bell-state-vqc@main/figures/parameter-evolution.png" width="60%" alt="Parameter evolution" title="Parameter evolution">
 </div>
 
 ---
