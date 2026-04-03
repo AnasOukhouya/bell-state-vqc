@@ -33,7 +33,7 @@ RY(p) ──●──
 ```
 
 <div>
-  <img src="figures/circuit-diagram.png" width="60%" alt="Circuit diagram" title="Circuit diagram">
+  <img src="https://cdn.jsdelivr.net/gh/AnasOukhouya/bell-state-vqc@main/figures/circuit-diagram.png" width="60%" alt="Circuit diagram" title="Circuit diagram">
 </div>
  
 ---
