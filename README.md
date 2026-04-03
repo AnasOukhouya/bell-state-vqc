@@ -29,7 +29,7 @@ RY(p) ──●──
    I ───⊕──
 ```
 
-![Circuit diagram](figures/circuit_diagram.png)
+![Circuit diagram](figures/circuit.png)
 
 ---
 
