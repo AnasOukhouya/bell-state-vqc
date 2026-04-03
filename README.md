@@ -1,11 +1,11 @@
 # Bell State Preparation via Variational Quantum Circuit
-> **Note:** figures may not render correctly on GitHub — they are visible in the notebook directly.
 Preparing the Bell state |Φ+⟩ = (|00⟩ + |11⟩)/√2 using a single-parameter
 variational quantum circuit, optimised with a hand-implemented parameter-shift rule.
 
 Built with [PennyLane](https://pennylane.ai/).
 
 ---
+> **Note:** figures may not render correctly on GitHub — they are visible in the notebook directly.
 
 ## What this does
 
