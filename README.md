@@ -67,10 +67,10 @@ At the optimal parameter, the circuit produces $|00\rangle$ and $|11\rangle$ wit
 ```
 bell-state-vqc/
 ├── bell_state_vqc.ipynb   # main notebook
-├── figures/               # plots saved by the notebook
-│   ├── circuit.png
-│   ├── state_probabilities.png
-│   └── parameter_evolution.png
+├── figures/               # plots
+│   ├── circuit-diagram.png
+│   ├── states-probabilities.png
+│   └── parameter-evolution.png
 ├── requirements.txt
 └── README.md
 ```
