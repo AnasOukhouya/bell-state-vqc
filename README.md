@@ -23,6 +23,9 @@ This makes the approach directly transferable to real hardware.
 
 ## Circuit
 
+RY is drawn from a universal gate set {RX, RY, CNOT} adopted for this project —
+sufficient for arbitrary single- and two-qubit operations.
+
 ```
 RY(p) ──●──
         │
