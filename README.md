@@ -32,7 +32,9 @@ RY(p) ──●──
    I ───⊕──
 ```
 
-![Circuit diagram](figures/circuit-diagram.png)
+<div align="center">
+  <img src="figures/circuit-diagram.png" width="50%" alt="Circuit diagram" title="Circuit diagram">
+</div>
  
 ---
  
