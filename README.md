@@ -32,7 +32,7 @@ RY(p) ──●──
    I ───⊕──
 ```
 
-![Circuit diagram](figures/circuit.png)
+![Circuit diagram](h[ttps://github.com](https://cdn.jsdelivr.net/gh/AnasOukhouya/bell-state-vqc/blob/3af0ab61028d61992e685ac984ce7167539ecfca/figures/circuit.png)
  
 ---
  
