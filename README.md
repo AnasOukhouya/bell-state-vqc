@@ -45,7 +45,7 @@ probability (~0.5 each), confirming successful Bell state preparation.
  
 | Observable | Initial (p = 3.0) | Optimised |
 |---|---|---|
-| P(\|00⟩) | ~0.98 | ~0.50 |
+| P(\|00⟩) | ~0.99 | ~0.50 |
 | P(\|11⟩) | ~0.01 | ~0.50 |
 
 <div>
