@@ -51,7 +51,7 @@ probability (~0.5 each), confirming successful Bell state preparation.
 <div>
   <img src="figures/state-probabilities.png" width="60%" alt="State probabilities" title="State probabilities">
 </div>
-
+<br>
 <div>
   <img src="figures/parameter-evolution.png" width="60%" alt="Parameter evolution" title="Parameter evolution">
 </div>
